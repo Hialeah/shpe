@@ -1,0 +1,107 @@
+#menu.slideout-menu
+  &.slideout-closed
+    display: none
+  &.slideout-open
+    background: #212121
+    color: white
+    position: fixed
+    top: 0
+    left: 0
+    bottom: 0
+    width: 260px
+    padding: 20px
+    display: block
+    z-index: 1
+  .flexbox
+    width: 100%
+    height: 100%
+    flex-direction: column
+    justify-content: space-between
+    nav
+      h4
+        margin-bottom: 5px
+      a
+        display: block
+        padding: 5px 0
+        font-size: 16px
+        color: $primary
+        font-weight: 500
+
+    .details
+      border-top: solid 2px #757575
+      padding-top: 10px
+      b, a
+        color: $primary
+      p
+        margin-top: 0
+
+main
+  &.pushLeft
+    position: relative
+    z-index: 1
+    will-change: transform
+    margin-left: 260px
+    overflow: hidden
+  .toggle-button
+    z-index: 1
+    position: fixed
+    margin-left: 15px
+    width: 50px
+    height: 50px
+    transform: rotate(0deg)
+    transition: .5s ease-in-out
+    cursor: pointer
+    background: none
+    border: none
+    .bar
+      display: block
+      position: absolute
+      height: 3px
+      width: 100%
+      background: $primary
+      border-radius: 9px
+      opacity: 1
+      left: 0
+      transform: rotate(0deg)
+      transition: .30s ease-in-out
+    .bar:nth-child(1)
+      top: 12px
+      width: 70%
+      margin: 0 15%
+      &.open
+        top: 22px
+        transform: rotate(135deg)
+    .bar:nth-child(2)
+      top: 22px
+      width: 90%
+      margin: 0 5%
+      &.open
+        opacity: 0
+        left: -60px
+    .bar:nth-child(3)
+      top: 32px
+      width: 70%
+      margin: 0 15%
+      &.open
+        top: 22px
+        transform: rotate(-135deg)
+
+// Top Navbar 2/4/2016 change
+#menu.topNavbar
+  position: fixed
+  z-index: 1
+  width: 100%
+  top: 0
+  right: 0
+  padding: 10px 0
+  nav
+    width: 450px
+    float: right
+    a
+      width: 200px
+      margin-right: 50px
+      font:
+        weight: 700
+      color: $dark
+  @media (min-width: 10px) and (max-width: 910px)
+    display: none

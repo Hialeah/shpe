@@ -1,0 +1,55 @@
+.topBar
+  position: fixed
+  background: white
+  border-bottom: solid 4px $primary
+  opacity: .95
+
+  p
+    max-width: 710px
+    margin: auto
+    color: $primary
+    font-weight: 700
+    text-align: left
+    @media (max-width: 910px)
+      margin-left: 70px
+.banner
+  height: 300px
+  @media (min-width: 786px)
+    height: 450px
+.post-wrap
+  max-width: 710px
+  padding: 10px 10px 50px 10px
+  margin: auto
+  h1
+    margin-bottom: 0
+  .meta
+    margin-bottom: 30px
+    margin-top: 0
+  // Post specific styles
+  hr
+    margin: 40px auto
+    width: 70%
+  ol
+    margin-left: 10px
+  ul
+    margin-left: 28px
+  a
+    color: $accent-color
+    font-weight: 500
+    &.post-title
+      color: $dark
+.authorBlock.flexbox-contain
+  width: 100%
+  padding: 20px
+  flex-direction: row
+  justify-content: space-around
+  align-items: center
+  border-top: solid 3px #eaeaea
+  .authorImg
+    width: 150px
+    height: 150px
+    border-radius: 50%
+  .authorBio
+    max-width: 400px
+.hidden
+  display: none
