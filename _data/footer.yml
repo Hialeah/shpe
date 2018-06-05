@@ -7,9 +7,9 @@ left_links:
     link: /contact/
 right_links:
   - name:
-    link: https://facebook.com/
+    link: https://github.com/
     new_window: true
-    social_icon: Facebook
+    social_icon: Github
   - name:
     link: https://twitter.com/
     social_icon: Twitter
