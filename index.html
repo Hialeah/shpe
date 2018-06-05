@@ -1,0 +1,61 @@
+---
+layout: default
+title: Home
+---
+
+{% for post in site.posts limit:1 %}
+<div class="xs-12 imgBack link textCenter vertCenter grow tall" style='background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1) ), url({{ site.url }}/assets/img/{{ post.thumbnail }})'>
+  <div>
+    <a class='caps post-title' href='{{ post.url }}'>{{ post.title }}</a>
+    <p class='meta'>{{ post.date | date_to_long_string }} / by {{ post.author }}</p>
+  </div>
+</div>
+{% endfor %}
+
+<div class='flexbox wrap'>
+{% for post in site.posts limit:2 offset:1 %}
+  <div class="sm-6 imgBack link vertCenter textCenter grow short" style='background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1) ), url({{ site.url }}/assets/img/{{ post.thumbnail }})'>
+    <div>
+      <a class='caps post-title' href='{{ post.url }}'>{{ post.title }}</a>
+      <p class='meta'>{{ post.date | date_to_long_string }} / by {{ post.author }}</p>
+    </div>
+  </div>
+{% endfor %}
+</div>
+<div class='divider xs-12 grow'></div>
+
+<div class='flexbox'>
+{% for post in site.posts limit:2 offset:3 %}
+  <div class="sm-6 textPreview vertCenter grow short">
+    <div>
+      <a class='caps post-title' href='{{ post.url }}'>{{ post.title }}</a>
+      <p>{{ post.excerpt }}</p>
+      <p class='meta'>{{ post.date | date_to_long_string }} / by {{ post.author }}</p>
+    </div>
+  </div>
+{% endfor %}
+</div>
+
+<div class='flexbox wrap'>
+{% for post in site.posts limit:3 offset:5 %}
+  <div class="sm-4 imgBack link vertCenter textCenter grow" style='background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1) ), url({{ site.url }}/assets/img/{{ post.thumbnail }})'>
+    <div>
+      <a class='caps post-title' href='{{ post.url }}'>{{ post.title }}</a>
+      <p class='meta'>{{ post.date | date_to_long_string }} / by {{ post.author }}</p>
+    </div>
+  </div>
+{% endfor %}
+</div>
+<div class='divider xs-12 grow'></div>
+
+<div class='flexbox'>
+{% for post in site.posts limit:2 offset:8 %}
+  <div class="sm-6 textPreview vertCenter grow short">
+    <div>
+      <a class='caps post-title' href='{{ post.url }}'>{{ post.title }}</a>
+      <p>{{ post.excerpt }}</p>
+      <p class='meta'>{{ post.date | date_to_long_string }} / by {{ post.author }}</p>
+    </div>
+  </div>
+{% endfor %}
+</div>

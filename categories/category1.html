@@ -1,0 +1,13 @@
+---
+layout: categories
+title: Category 1
+thumbnail: breakfast-orange-lemon-oranges-large.jpg
+---
+
+<!-- **User Input** Adjust the category filter by changing `site.categories.[thisValue]` -->
+{% for post in site.categories.category1 %}
+  <div class='listing'>
+    <a class='post-title' href='{{ post.url }}'>{{ post.title }}</a>
+    <p class='meta'>{{ post.date | date_to_long_string }} / by {{ post.author }}</p>
+  </div>
+{% endfor %}
