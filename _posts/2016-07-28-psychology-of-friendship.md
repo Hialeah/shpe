@@ -5,6 +5,7 @@ description: How are our brains wired for friendship?
 categories:
   - friendship
   - science
+comments: true
 image: https://source.unsplash.com/collection/375719/2000x1322?a=.png
 author_staff_member: betty
 ---
