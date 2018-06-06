@@ -3,14 +3,14 @@
 
 title: MDC SHPE
 url: "https://shpe.ga"
-baseurl: 
+baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname: shpe
 
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo:   # /siteicon.png
+logo:   /shpe.ico
 description: SHPE MDC Website
 author:
   name:
@@ -43,7 +43,7 @@ exclude:
 
 collections:
   staff_members:
-    _hide_content: true
+    _hide_content: false
 
 paginate: 10
 paginate_path: "/blog/:num/"
