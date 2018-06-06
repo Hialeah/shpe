@@ -5,16 +5,26 @@ description: Exploring the mechanics of friendship
 categories:
   - shpe
 image: https://source.unsplash.com/collection/375719/2000x1322?a=.png
-author_staff_member: patricia
+author_staff_member: 1-patricia
 ---
-Friendship is a relationship of mutual affection between people. Friendship is a stronger form of interpersonal bond than an association. Friendship has been studied in academic fields such as sociology, social psychology, anthropology, and philosophy. Various academic theories of friendship have been proposed, including social exchange theory, equity theory, relational dialectics, and attachment styles. A World Happiness Database study found that people with close friendships are happier.
 
-![Checkmate](https://source.unsplash.com/random/1500x1000)
+## History
 
-## Forms of friendship
+The Society of Hispanic Professional Engineers (SHPE) was founded in Los Angeles, California, in 1974 by a group of engineers employed by the city of Los Angeles. Their objective was to form a national organization of professional engineers to serve as role models in the Hispanic community.
 
-Although there are many forms of friendship, some of which may vary from place to place, certain characteristics are present in many types of bond. Such characteristics include affection, sympathy, empathy, honesty, altruism, mutual understanding, and compassion, enjoyment of each other's company, trust, and the ability to be oneself, express one's feelings, and make mistakes without fear of judgment from the friend.
+The concept of Networking was the key basis for the organization. SHPE quickly established two student chapters to begin the network that would grow to encompass the nation as well as reach countries outside the United States. Today, SHPE enjoys a strong but independent network of professional and student chapters throughout the nation.
 
-While there is no practical limit on what types of people can form a friendship, friends tend to share common backgrounds, occupations, or interests and have similar demographics.
+## Mission & Vision
 
-![Raspberries](https://source.unsplash.com/random/1500x1001)
+### Mission
+
+**SHPE** changes lives by empowering the Hispanic community to realize its fullest potential and to impact the world through STEM awareness, access, support and development.
+
+### Vision
+
+SHPE's vision is a world where Hispanics are highly valued and influential as the leading innovators, scientists, mathematicians and engineers.
+
+### Regions
+
+SHPE is a national organization and is divided into seven regions as the picture below shows.
+![Regions](https://cdn.shpe.ga/blog/2018/regions.png)
