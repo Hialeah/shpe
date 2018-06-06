@@ -1,3 +1,5 @@
+![MDC SHPE](https://shpe.ga/images/logo/dark.svg)
+
 # Contributing
 
 Install the dependencies with [Bundler](http://bundler.io/):
