@@ -1,5 +1,5 @@
 ---
-title: What is SHAPE?
+title: What is SHPE?
 date: 2018-06-05
 description: Get to know SHPE a little
 categories:
