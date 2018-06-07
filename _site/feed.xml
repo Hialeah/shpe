@@ -1,4 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-06-07T05:37:21+00:00</updated><id>http://localhost:4000/</id><title type="html">MDC SHPE</title><subtitle>SHPE MDC Website</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">What is SHPE?</title><link href="http://localhost:4000/shpe/2018/06/05/what-is-a-shpe/" rel="alternate" type="text/html" title="What is SHPE?" /><published>2018-06-05T00:00:00+00:00</published><updated>2018-06-05T00:00:00+00:00</updated><id>http://localhost:4000/shpe/2018/06/05/what-is-a-shpe</id><content type="html" xml:base="http://localhost:4000/shpe/2018/06/05/what-is-a-shpe/">&lt;h2 id=&quot;history&quot;&gt;History&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-06-07T05:41:03+00:00</updated><id>http://localhost:4000/</id><title type="html">MDC SHPE</title><subtitle>SHPE MDC Website</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">What are we doing in MDC SHPE</title><link href="http://localhost:4000/mdc/shpe/2018/06/06/shpe/" rel="alternate" type="text/html" title="What are we doing in MDC SHPE" /><published>2018-06-06T00:00:00+00:00</published><updated>2018-06-06T00:00:00+00:00</updated><id>http://localhost:4000/mdc/shpe/2018/06/06/shpe</id><content type="html" xml:base="http://localhost:4000/mdc/shpe/2018/06/06/shpe/">&lt;h1 id=&quot;activities-in-miami-dade-college&quot;&gt;Activities in Miami Dade College&lt;/h1&gt;
+
+&lt;p&gt;We work preatty hard
+slkdfjl&lt;/p&gt;
+
+&lt;p&gt;sdkfjlsd
+sjldfk&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://se-infra-imageserver2.azureedge.net/clink/images/20ad6026-df4e-49b4-82d3-1f6569d21c2a5ae525c8-6147-42ff-98a3-c10e9687ed8d.jpg?preset=large-h&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;```java&lt;/p&gt;
+
+&lt;p&gt;System.out.printf(“Hello “);&lt;/p&gt;
+
+&lt;p&gt;``&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://google.com&quot;&gt;Go to google&lt;/a&gt;&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Activities in Miami Dade College</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://source.unsplash.com/collection/375719/2000x1322?a=.png" /></entry><entry><title type="html">What is SHPE?</title><link href="http://localhost:4000/shpe/2018/06/05/what-is-a-shpe/" rel="alternate" type="text/html" title="What is SHPE?" /><published>2018-06-05T00:00:00+00:00</published><updated>2018-06-05T00:00:00+00:00</updated><id>http://localhost:4000/shpe/2018/06/05/what-is-a-shpe</id><content type="html" xml:base="http://localhost:4000/shpe/2018/06/05/what-is-a-shpe/">&lt;h2 id=&quot;history&quot;&gt;History&lt;/h2&gt;
 
 &lt;p&gt;The Society of Hispanic Professional Engineers (SHPE) was founded in Los Angeles, California, in 1974 by a group of engineers employed by the city of Los Angeles. Their objective was to form a national organization of professional engineers to serve as role models in the Hispanic community.&lt;/p&gt;
 

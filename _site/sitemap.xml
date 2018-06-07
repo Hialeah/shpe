@@ -5,6 +5,10 @@
 <lastmod>2018-06-05T00:00:00+00:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/mdc/shpe/2018/06/06/shpe/</loc>
+<lastmod>2018-06-06T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
@@ -18,5 +22,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/category/shpe/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/mdc/</loc>
 </url>
 </urlset>
