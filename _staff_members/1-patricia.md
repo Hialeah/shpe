@@ -1,6 +1,6 @@
 ---
-name: Wendy Rodriguez
-position: President of MDC Shape Club
+name: Patricia Gonzales
+position: President
 image_path: https://source.unsplash.com/collection/139386/600x600?a=.png
-blurb: President of the MDC Shpe Club.
+blurb: Computer Science student, President of SHPE MDC.
 ---
