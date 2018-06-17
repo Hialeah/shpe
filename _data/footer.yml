@@ -5,11 +5,16 @@ left_links:
     link: /about/
   - name: Contact
     link: /contact/
+ 
+
+right_links:
   - name: Github
     link: https://github.com/mdcblue/
-
-
-# right_links:
+    new_window: true
+  - name: Donate
+    link: https://www.gofundme.com/shpe-engineering-students-travel
+    new_window: true
+    
 #   - name:
 #     link: https://github.com/
 #     new_window: true
