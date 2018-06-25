@@ -2,9 +2,10 @@
 name:
 position:
 image_path:
+about:
 twitter:
 github:
 linkedin:
-about:
 stackoverflow:
+mail:
 ---

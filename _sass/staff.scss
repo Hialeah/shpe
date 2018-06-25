@@ -25,12 +25,43 @@
 	}
 
 	.position {
-		color: #666;
+		color: #63676d;
 		font-size: .8em;
 	}
 
 	.about {
-		color: #666;
+		color: #63676d;
 		font-size: .5em;
+	}
+
+	.social {
+		font-size: 27px;
+	}
+
+	.fas, .fab {
+  		margin: 0.7em;
+	}
+
+	.fa-envelope {
+		color: #7d8084;
+	}
+
+	.fa-twitter {
+		color: #55acee;
+	}
+
+	.fa-github {
+		color: #333;
+	}
+
+	.fa-linkedin {
+		color: #0976b4;
+	}
+
+	.fa-stack-overflow {
+		background: -webkit-gradient(linear, left top, right bottom, from(#fe7a15), to(gray));
+    	-webkit-background-clip: text;
+    	-webkit-text-fill-color: transparent;
+    	display: initial;
 	}
 }

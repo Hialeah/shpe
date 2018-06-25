@@ -1,7 +1,7 @@
 ---
 title: About
 description: We've built an amazing team of developers, marketers, designers and sales people.
-image: https://source.unsplash.com/BcoGknSqlDc/2000x1322?a=.png
+image: https://cdn.shpe.ga/events/shpe-event-2017.jpg
 ---
 
 <section class="hero" style="background-image: url({% include relative-src.html src=page.image %})">
@@ -24,18 +24,13 @@ image: https://source.unsplash.com/BcoGknSqlDc/2000x1322?a=.png
 					<div class="position">{{ person.position }}</div>
 					<div class="about"><p>{{ person.about }}</p></div>
 					<div class="position"><a href="https://{{ person.web }}/">{{ person.web }}</a></div>
-					<div class="position">
-						{% if person.mail %}<a href="mailto:{{ person.mail }}"><img src="https://png.icons8.com/ios-glyphs/25/333333/secured-letter.png" alt="email logo"></a>{% endif %}
-						{% if person.twitter %}<a href="https://twitter.com/{{ person.twitter }}"><img src="https://png.icons8.com/color/25/333333/twitter.png" alt="twitter logo"></a>{% endif %}
-						{% if person.github  %}<a href="https://github.com/{{ person.github }}"><img src="https://png.icons8.com/ios/25/333333/github-filled.png" alt="github logo"></a>{% endif %}
-						{% if person.linkedin  %}<a href="https://linkedin.com/in/{{ person.linkedin }}"> <img src="https://png.icons8.com/color/25/333333/linkedin.png" alt="linkedin logo"></a>{% endif %}
-						{% if person.stackoverflow  %}<a href="https://stackoverflow.com/users/{{ person.stackoverflow }}?tab=profile"> <img src="https://png.icons8.com/color/25/333333/stackoverflow.png" alt="stackoverflow logo"></a>{% endif %}
-
+					<div class="social">
+						{% if person.mail %}<a href="mailto:{{ person.mail }}"><i class="fas fa-envelope"></i></a>{% endif %}
+						{% if person.twitter %}<a href="https://twitter.com/{{ person.twitter }}"><i class="fab fa-twitter"></i></a>{% endif %}
+						{% if person.github  %}<a href="https://github.com/{{ person.github }}"><i class="fab fa-github"></i></a>{% endif %}
+						{% if person.linkedin  %}<a href="https://linkedin.com/in/{{ person.linkedin }}"> <i class="fab fa-linkedin"></i></a>{% endif %}
+						{% if person.stackoverflow  %}<a href="https://stackoverflow.com/users/{{ person.stackoverflow }}?tab=profile"> <i class="fab fa-stack-overflow"></i></a>{% endif %}
 					</div>
-<!--
-					{% if person.github  %}<div class="position"></a></div> {% endif %}
-					{% if person.linkedin  %}<div class="position"><a href="https://linkedin.com/in/{{ person.linkedin }}"> <img src="https://png.icons8.com/color/25/333333/linkedin.png" alt="linkedin logo"></a></div> {% endif %} -->
-
 				</li>
 			{% endfor %}
 		</ul>

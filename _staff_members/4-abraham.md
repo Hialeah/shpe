@@ -1,6 +1,6 @@
 ---
 name: Carlos Abraham
-position: Programming Team Member
+position: Webmaster
 image_path: https://avatars1.githubusercontent.com/u/21347264?s=460&v=4
 about: Computer Science Student, E-Board Member
 web: 19cah.com

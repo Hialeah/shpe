@@ -306,11 +306,28 @@ blockquote:before {
   .staff .name {
     margin-top: 20px; }
   .staff .position {
-    color: #666;
+    color: #63676d;
     font-size: .8em; }
   .staff .about {
-    color: #666;
+    color: #63676d;
     font-size: .5em; }
+  .staff .social {
+    font-size: 27px; }
+  .staff .fas, .staff .fab {
+    margin: 0.7em; }
+  .staff .fa-envelope {
+    color: #7d8084; }
+  .staff .fa-twitter {
+    color: #55acee; }
+  .staff .fa-github {
+    color: #333; }
+  .staff .fa-linkedin {
+    color: #0976b4; }
+  .staff .fa-stack-overflow {
+    background: -webkit-gradient(linear, left top, right bottom, from(#fe7a15), to(gray));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: initial; }
 
 .map {
   width: 100%;
