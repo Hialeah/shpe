@@ -1,8 +1,8 @@
 ---
 name: Carlos Abraham
-position: Webmaster
+position: Club Member
 image_path: https://avatars1.githubusercontent.com/u/21347264?s=460&v=4
-about: Computer Science Student, E-Board Member
+about: Computer Science Student
 web: 19cah.com
 github: 19cah
 linkedin: 19cah

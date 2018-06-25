@@ -8,15 +8,7 @@ left_links:
 
 
 right_links:
-  - name: 
+  - name:
     link: https://www.gofundme.com/shpe-engineering-students-travel
     social_icon: Donate
-    new_window: true
-  - name:
-    link: https://github.com/mdcblue
-    new_window: true
-    social_icon: Github
-  - name:
-    link: https://twitter.com/mdcblue
-    social_icon: Twitter
     new_window: true
