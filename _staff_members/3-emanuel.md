@@ -2,5 +2,7 @@
 name: Emanuel Garcias
 position: MDC Blue Club President
 image_path: https://avatars2.githubusercontent.com/u/27441517?s=460&v=4
-blurb: Computer Science Student, E-Board Member.
+about: Computer Science Student, E-Board Member.
+github: Jikiyama
+twitter: Jikiyama
 ---

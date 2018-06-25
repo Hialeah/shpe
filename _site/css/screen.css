@@ -308,6 +308,9 @@ blockquote:before {
   .staff .position {
     color: #666;
     font-size: .8em; }
+  .staff .about {
+    color: #666;
+    font-size: .5em; }
 
 .map {
   width: 100%;
@@ -349,7 +352,7 @@ blockquote:before {
   .blog-post .author .square-image {
     width: 125px;
     height: 125px; }
-  .blog-post .author .blurb {
+  .blog-post .author .about {
     text-align: center; }
 .blog-post h3 {
   margin: 0; }
@@ -432,16 +435,16 @@ blockquote:before {
   padding: 30px; }
 
 .button a, input[type=submit] {
-  color: #6ba1f3;
+  color: #000f59;
   text-decoration: none;
-  border: 2px solid #6ba1f3;
+  border: 2px solid #000f59;
   transition: .2s ease-in-out;
   display: inline-block;
   padding: 16px 50px;
   background: #fff; }
 
 .button a:hover, input[type=submit]:hover {
-  background: #6ba1f3;
+  background: #000f59;
   color: #fff;
   cursor: pointer; }
 
@@ -452,7 +455,7 @@ blockquote:before {
 
 .button.alt a:hover {
   background: #fff;
-  color: #6ba1f3;
+  color: #000f59;
   text-shadow: none; }
 
 textarea, input, button, select {
@@ -592,12 +595,17 @@ footer {
         fill: #bd081c; }
       footer ul li a.rss-icon:hover svg {
         fill: #f26522; }
+      footer ul li a.github-icon:hover svg {
+        fill: #161614; }
+      footer ul li a.donate-icon:hover svg {
+        fill: #e8c83c; }
 
 .copyright {
   margin: 15px auto;
-  float: left; }
+  float: center;
+  color: #999; }
   .copyright a {
-    color: #999; }
+    color: white; }
   @media (min-width: 768px) {
     .copyright {
       text-align: center;

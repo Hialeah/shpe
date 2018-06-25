@@ -82,6 +82,12 @@ footer {
 				&.rss-icon:hover svg {
 					fill: #f26522;
 				}
+				&.github-icon:hover svg {
+					fill: #161614;
+				}
+				&.donate-icon:hover svg {
+					fill: #e8c83c;
+				}
 			}
 		}
 	}
@@ -89,10 +95,11 @@ footer {
 
 .copyright {
 	margin: 15px auto;
-	float: left;
+	float: center;
+	color: #999;
 
 	a {
-		color: #999;
+		color: white;
 	}
 
 	@media #{$desktop} {

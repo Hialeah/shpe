@@ -90,7 +90,6 @@ defaults:
         resize_style: cover
 
 # -----------
-# CloudCannon
 
 social_icons:
   - Facebook
@@ -103,7 +102,9 @@ social_icons:
   - YouTube
   - Email
   - RSS
+  - Github
+  - Donate
 
 _comments:
   description: Text shown when sharing on social media
-  blurb: Short bio or description of this person
+  about: Short bio or description of this person
