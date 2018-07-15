@@ -2,7 +2,7 @@
 name: Carlos Abraham
 position: Club Member
 image_path: https://avatars1.githubusercontent.com/u/21347264?s=460&v=4
-about: Computer Science Student
+about: Computer Science Student, MDC Blue Club member and Shpe Webmaster
 web: 19cah.com
 github: 19cah
 linkedin: 19cah
