@@ -5,7 +5,7 @@ description: Get to know SHPE a little
 categories:
   - shpe
 image: https://source.unsplash.com/collection/375719/2000x1322?a=.png
-author_staff_member: 2-luis
+author_staff_member: 1-patricia
 ---
 
 The Society of Hispanic Professional Engineers (SHPE) was founded in Los Angeles, California, in 1974 by a group of engineers employed by the city of Los Angeles. Their objective was to form a national organization of professional engineers to serve as role models in the Hispanic community.
