@@ -10,7 +10,7 @@ image: https://cdn.shpe.ga/blog/2018/july/pict1.jpg
 author_staff_member: 4-abraham
 ---
 
-Summer's beginning is amazing, and we didn't took it for granted: We went to Boeing
+Summer's beginning is amazing, and we didn't took it for granted: <br/> We went to **Boeing**!
 
 ![Boeing Logo](https://s3.amazonaws.com/freebiesupply/large/2x/boeing-logo-png-transparent.png)
 
