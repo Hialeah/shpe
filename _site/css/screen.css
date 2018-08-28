@@ -7,7 +7,7 @@
   display: flex; }
 
 html {
-  background: #2b2b40; }
+  background: #003d99; }
 
 html, body {
   margin: 0;
@@ -60,7 +60,7 @@ p, address, ul {
   text-align: center;
   height: 100vh;
   min-height: 550px;
-  background-color: #333;
+  background-color: #0066ff;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center; }
@@ -563,7 +563,7 @@ nav {
 footer {
   font-size: .6em;
   position: relative;
-  background: #2b2b40;
+  background: #0066ff;
   color: #fff; }
   footer,
   footer a {
@@ -617,8 +617,7 @@ footer {
         fill: #e8c83c; }
 
 .copyright {
-  margin: 15px auto;
-  float: center;
+  margin: 30px;
   color: #999; }
   .copyright a {
     color: white; }
