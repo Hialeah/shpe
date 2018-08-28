@@ -1,0 +1,8 @@
+- name: Blog
+  link: /blog/
+- name: About
+  link: /about/
+- name: Contact
+  link: /contact/
+- name: Donate
+  link: https://www.gofundme.com/shpe-engineering-students-travel

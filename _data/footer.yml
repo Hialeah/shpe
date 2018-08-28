@@ -1,0 +1,13 @@
+left_links:
+  - name: Blog
+    link: /blog/
+  - name: About
+    link: /about/
+  - name: Contact
+    link: /contact/
+  - name: Donate
+    link: https://www.gofundme.com/shpe-engineering-students-travel
+    new_window: true
+  - name: Feedback
+    link: https://feedback.abranhe.com/?project=MDC SHPE (website)&description=I personally manage the MDC SHPE website, if your issue it's not related with the developement proccess, please feel free to contact them at www.shpe.ga/contact, otherwise you are in the right place.&message=I (do/don't) like this 😇 website because... 
+    new_window: true

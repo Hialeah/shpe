@@ -1,0 +1,38 @@
+---
+title: About
+description: We've built an amazing team of developers, marketers, designers and sales people.
+image: https://cdn.shpe.ga/events/shpe-event-2017.jpg
+---
+
+<section class="hero" style="background-image: url({% include relative-src.html src=page.image %})">
+	<div class="inner-hero text-container">
+		<div class="hero-text-container">
+			<h1 class="editable">Our E-Board</h1>
+			<p class="subtext editable">We have an extremely talented team that works hard to create and maintain the growing community of SHPE MDC </p>
+		</div>
+	</div>
+</section>
+
+<section class="pad">
+	<div class="container">
+		<p class="editor-link"><a href="cloudcannon:collections/_staff_members" class="btn"><strong>&#9998;</strong> Manage Staff Members</a></p>
+		<ul class="staff">
+			{% for person in site.staff_members %}
+				<li>
+					<div class="square-image" style="background-image: url({% include relative-src.html src=person.image_path %})"></div>
+					<div class="name"><p>{{ person.name }}</p></div>
+					<div class="position">{{ person.position }}</div>
+					<div class="about"><p>{{ person.about }}</p></div>
+					<div class="position"><a href="https://{{ person.web }}/">{{ person.web }}</a></div>
+					<div class="social">
+						{% if person.mail %}<a href="mailto:{{ person.mail }}"><i class="fas fa-envelope"></i></a>{% endif %}
+						{% if person.twitter %}<a href="https://twitter.com/{{ person.twitter }}"><i class="fab fa-twitter"></i></a>{% endif %}
+						{% if person.github  %}<a href="https://github.com/{{ person.github }}"><i class="fab fa-github"></i></a>{% endif %}
+						{% if person.linkedin  %}<a href="https://linkedin.com/in/{{ person.linkedin }}"> <i class="fab fa-linkedin"></i></a>{% endif %}
+						{% if person.stackoverflow  %}<a href="https://stackoverflow.com/users/{{ person.stackoverflow }}?tab=profile"> <i class="fab fa-stack-overflow"></i></a>{% endif %}
+					</div>
+				</li>
+			{% endfor %}
+		</ul>
+	</div>
+</section>
