@@ -16,4 +16,4 @@ $ bundle exec jekyll serve
 
 ### Contact Form
 
-* Preconfigured to work with CloudCannon, but easily changed to another provider (e.g. [FormSpree](https://formspree.io/)).
+* Contact form made easier with [FormSpree](https://formspree.io/).
