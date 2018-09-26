@@ -1,8 +1,8 @@
 ---
 name: Carlos Abraham
-position: Club Member
-image_path: https://avatars1.githubusercontent.com/u/21347264?s=460&v=4
-about: Computer Science Student, MDC Blue Club member and Shpe Webmaster
+position: webmaster
+image_path: https://avatars1.githubusercontent.com/u/21347264?s=460
+about: Vicepresident of MDC Blue Programming Team
 web: abranhe.com
 github: abranhe
 linkedin: abranhe
