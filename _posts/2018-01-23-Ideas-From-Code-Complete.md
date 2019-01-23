@@ -1,12 +1,12 @@
-
 ---
+title: Ideas from Code Complete?
 date: 2019-01-23
-description: While reading Code Complete I took note of the most interesting ideas I found. Here I share them with you.
+description: Some ideas from an amazing book on Software Construction.
 categories:
-  - Software Engineering
+  - Software
+
 author_staff_member: 5-luis
 ---
-
 Code complete is a book on Software Engineering, written by Steve McConnell and published in 1993. Kind of old, you may say, Yes, but the ideas on this book are amazing and will change the way you see software construction by making you understand that the word "engineering" does make sense when we refer to the field.
 
 1. Coding VS Software Construction 
