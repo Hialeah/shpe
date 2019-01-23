@@ -1,22 +1,20 @@
 
 ---
-title: Some ideas from Code Complete.
 date: 2019-01-23
 description: While reading Code Complete I took note of the most interesting ideas I found. Here I share them with you.
 categories:
   - Software Engineering
-
 author_staff_member: 5-luis
 ---
+
 Code complete is a book on Software Engineering, written by Steve McConnell and published in 1993. Kind of old, you may say, Yes, but the ideas on this book are amazing and will change the way you see software construction by making you understand that the word "engineering" does make sense when we refer to the field.
 
-1. Coding VS Software Construction : 
----
+1. Coding VS Software Construction 
+   ---
   Although coding and software engineering is often used interchangeably these two are not quite the same. “Software Construction” Refers to "coding" and debugging, but also includes design, unit testing, integration testing and other activities. When we say “coding” we often refer to the mechanical action of translating a pre-existing design to a computer language. 
-  
+
  2. Documentation.
- ---
- 
+    ---
   You may have had a programming professor who takes away points from your assignment if it is not documented correctly. You don't really like that right? Think about it, the product of construction, the source code, is often the only documentation that is available to the programmers, thus it is imperative that the source code has the highest quality possible. When you write code, think about your audience, your fellow programmers who one day may have to maintain that code.
   
  3. Metaphors.
