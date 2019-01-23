@@ -4,7 +4,7 @@ date: 2019-01-23
 description: The NASA Comunity College Student Program.
 categories:
   - internships
-
+image : 
 author_staff_member: 5-luis
 ---
 NCAS gives community college STEM students an authentic NASA experience and encourages them to finish a 2-year degree or transfer to a 4-year university to pursue a NASA-related field or career.
@@ -19,5 +19,6 @@ Able to commit to a 5 week online session
 Internet access
 
 *Please note a non-refundable $35 fee will be collected for the onsite portion to cover materials.
+---
 
 
