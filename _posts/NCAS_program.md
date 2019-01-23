@@ -5,7 +5,7 @@ description: The NASA Comunity College Student Program.
 categories:
   - internships
 image: https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjssJGq44TgAhXMhOAKHc67CSMQjRx6BAgBEAU&url=http%3A%2F%2Fwww.smc.edu%2FNewsRoom%2FPages%2FSMC-Students-Head-to-NASA-JPL-Through-the-Promise-of-STEM.aspx&psig=AOvVaw3brZ6NmQHmn6avqgS3Xd3v&ust=1548362868475614
-author_staff_member: Luis Robaina
+author_staff_member: 5-luis
 ---
 
 The Society of Hispanic Professional Engineers (SHPE) was founded in Los Angeles, California, in 1974 by a group of engineers employed by the city of Los Angeles. Their objective was to form a national organization of professional engineers to serve as role models in the Hispanic community.
