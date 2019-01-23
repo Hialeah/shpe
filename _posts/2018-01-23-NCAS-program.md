@@ -11,11 +11,13 @@ NCAS gives community college STEM students an authentic NASA experience and enco
 
 Eligibility:
 
-    U.S. citizenship
-    High school graduate or equivalent and at least 18 years of age
-    Registered at a U.S. community college during the semester of the onsite workshop
-    Concurrent enrollment or completion of 9+ hours of STEM coursework
-    Able to commit to a 5 week online session
-    Internet access
+U.S. citizenship
+High school graduate or equivalent and at least 18 years of age
+Registered at a U.S. community college during the semester of the onsite workshop
+Concurrent enrollment or completion of 9+ hours of STEM coursework
+Able to commit to a 5 week online session
+Internet access
 
 *Please note a non-refundable $35 fee will be collected for the onsite portion to cover materials.
+
+image: https://goo.gl/images/5i1jGN
