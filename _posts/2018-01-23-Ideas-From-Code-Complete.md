@@ -3,7 +3,7 @@ title: Ideas from Code Complete
 date: 2019-01-23
 description: Some ideas from an amazing book on Software Construction.
 categories:
-  - Software
+  - Software Engineering
 image: https://www.planradar.com/wp-content/uploads/2017/10/software-for-construction-1.jpg
 author_staff_member: 5-luis
 ---
