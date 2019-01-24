@@ -14,7 +14,7 @@ Code complete is a book on Software Engineering, written by Steve McConnell and 
    ---
   Although coding and software engineering is often used interchangeably these two are not quite the same. “Software Construction” Refers to coding and debugging, but also includes design, unit testing, integration testing and other activities. When we say “coding” we often refer to the mechanical action of translating a pre-existing design to a computer language. 
 
- 2. Documentation.
+ 2. Documentation
     ---
   You may have had a programming professor who takes away points from your assignment if it is not documented correctly. You don't really like that do you? But think about it, the product of construction, the source code, is often the only documentation that is available to the programmers, thus it is imperative that the source code has the highest quality possible. When you write code, think about your audience, your fellow programmers who one day may have to maintain that code.
   
