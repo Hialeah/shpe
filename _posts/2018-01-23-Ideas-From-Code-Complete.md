@@ -17,11 +17,11 @@ Code complete is a book on Software Engineering, written by Steve McConnell and 
     ---
   You may have had a programming professor who takes away points from your assignment if it is not documented correctly. You don't really like that do you? But think about it, the product of construction, the source code, is often the only documentation that is available to the programmers, thus it is imperative that the source code has the highest quality possible. When you write code, think about your audience, your fellow programmers who one day may have to maintain that code.
   
- 3. Metaphors.
+ 3. Metaphors
     ---
   The most challenging part of programming is conceptualizing the problem. Metaphors often provide helpful insides to seeing the problem from different angles. It is impossible to create a set of instructions that solve every problem, thus the ability to approach problems is more valuable than knowing specific solutions.
  
- 4. Quality Assurance is not just Testing.
+ 4. Quality Assurance is not just Testing
     ---
   Software quality assurance is not limited to testing. Testing cannot reveal problems that were introduced in the prerequisites development or problem definition stage. You may have a fully functional program that solves the wrong problem due to incorrect problem definition, you may have the program that solves the right problem but does not include all desired functionalities due to incorrect prerequisites developments, finally, you may be solving the right problem with the right features but just the wrong way due to poor architectural design. Explicit requirements prevent you from guessing what the user wants. 
 Tip: Have a problem definition, a clear statement of the problem the system is supposed to solve.
