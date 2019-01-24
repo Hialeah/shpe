@@ -4,7 +4,7 @@ date: 2019-01-23
 description: Some ideas from an amazing book on Software Construction.
 categories:
   - Software
-image: https://www.constructionbusinessowner.com/sites/default/files/u27631/64785827_thumbnail_0.jpg
+image: https://www.planradar.com/wp-content/uploads/2017/10/software-for-construction-1.jpg
 author_staff_member: 5-luis
 ---
 
