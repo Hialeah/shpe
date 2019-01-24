@@ -12,11 +12,11 @@ Code complete is a book on Software Engineering, written by Steve McConnell and 
 
 1. Coding VS Software Construction 
    ---
-  Although coding and software engineering is often used interchangeably these two are not quite the same. “Software Construction” Refers to coding and debugging, but also includes design, unit testing, integration testing and other activities. When we say “coding” we often refer to the mechanical action of translating a pre-existing design to a computer language. 
+  Although coding and software engineering is often used interchangeably, these two are not quite the same. “Software Construction” refers to coding and debugging, but also includes design, unit testing, integration testing, and other activities. When we say “coding” we often refer to the mechanical action of translating a pre-existing design to a computer language. 
 
  2. Documentation
     ---
-  You may have had a programming professor who takes away points from your assignment if it is not documented correctly. You don't really like that do you? But think about it, the product of construction, the source code, is often the only documentation that is available to the programmers, thus it is imperative that the source code has the highest quality possible. When you write code, think about your audience, your fellow programmers who one day may have to maintain that code.
+  You may have had a programming professor who takes away points from your assignment if it is not documented correctly. You don't really like that do you? But think about it, the product of construction, the source code, is often the only documentation that is available to the programmers, thus, it is imperative that the source code has the highest quality possible. When you write code, think about your audience, your fellow programmers, who one day may have to maintain that code.
   
  3. Metaphors
     ---
@@ -24,13 +24,13 @@ Code complete is a book on Software Engineering, written by Steve McConnell and 
  
  4. Quality Assurance is not just Testing
     ---
-  Software quality assurance is not limited to testing. Testing cannot reveal problems that were introduced in the prerequisites development or problem definition stage. You may have a fully functional program that solves the wrong problem due to incorrect problem definition, you may have the program that solves the right problem but does not include all desired functionalities due to incorrect prerequisites developments, finally, you may be solving the right problem with the right features but just the wrong way due to poor architectural design. Explicit requirements prevent you from guessing what the user wants. 
+  Software quality assurance is not limited to testing. Testing cannot reveal problems that were introduced in the prerequisites development or problem definition stage. You may have a fully functional program that solves the wrong problem due to incorrect problem definition. You may have the program that solves the right problem but does not include all desired functionalities due to incorrect prerequisites development. Finally, you may be solving the right problem with the right features but just the wrong way, due to poor architectural design. Explicit requirements prevent you from guessing what the user wants. 
 Tip: Have a problem definition, a clear statement of the problem the system is supposed to solve.
 Objection: Keep in mind that stable requirements are often a myth, customers will change their requirements as the system progresses, as they will understand their own need as the project advances.
 
  5. Programming Languages
     ---
-  Your programming tools don’t have to determine how you think about programming. Program into the language, not in the   language should be yours. 
+  Your programming tools don’t have to determine how you think about programming. Program "into" the language, not "in" the   language should be your approach. 
 Programming “in” a language: A programmer that programs “in” a language limit his/her thoughts to the constructs provided by the language. Thus, if the language is primitive, their thought will also be primitive. 
 Programming “into” a language: A programmer that programs “into” a language will first decide what thoughts he/she wants to express, then determine how to express these thoughts using the tools provided by the language.
 
