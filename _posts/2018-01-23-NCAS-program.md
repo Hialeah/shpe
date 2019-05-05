@@ -3,8 +3,9 @@ title: Join NCAS for an authentic NASA experience !
 date: 2019-01-23
 description: The NASA Comunity College Student Program.
 categories:
-  - internships -opportunities
-image : 
+  - internships
+  - opportunities
+image : https://nas.okstate.edu/ncas/images/BG_FadeToBlack.jpg
 author_staff_member: 5-luis
 ---
 Have you heard of NCAS ?
