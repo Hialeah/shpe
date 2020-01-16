@@ -1,19 +1,15 @@
 ![MDC SHPE](https://shpe.ga/images/logo/dark.svg)
 
-# Contributing
+This is the repository home of the [shpe.ga](https://shpe.ga). It is build on [Jekyll](https://jekyllrb.com/), and the dependencies are managed by [Bundler](http://bundler.io/).
 
-Install the dependencies with [Bundler](http://bundler.io/):
+## Setting up
 
 ~~~bash
 $ bundle install
 ~~~
 
-Run `jekyll` commands through Bundler to ensure you're using the right versions:
+## Run it
 
 ~~~bash
 $ bundle exec jekyll serve
 ~~~
-
-### Contact Form
-
-* Contact form made easier with [FormSpree](https://formspree.io/).
